@@ -20,11 +20,11 @@
   web/                contains the entry script and Web resources
 ```
 
-#### 1.advanced版本文件结构图:
+#### 3.advanced版本文件结构图:
 
 ![](/assets/advanced.png)
 
-#### 2.advanced目录介绍：
+#### 4.advanced目录介绍：
 
 ```markedown
 common
@@ -60,6 +60,8 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+
+#### 5.advanced与basic区别：
 
 
 
