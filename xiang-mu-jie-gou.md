@@ -65,5 +65,9 @@ environments/            contains environment-based overrides
 
 #### 5.advanced与basic区别：
 
+其实没太大区别。yii2-app-basic只有一个web应用，而yii2-app-advanced是默认带了前台和后台两个web应用，将两个应用整合在一个project里面，然后用common应用存放一些两个应用公共的一些东西。  
+  
+  
+
 
 
