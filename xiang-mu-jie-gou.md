@@ -11,7 +11,7 @@
   commands/           contains console commands (controllers)控制台应用程序(控制器)
   config/             contains application configurations应用及其他配置
   controllers/        contains Web controller classes web应用控制器
-  mail/               contains view files for e-mails
+  mail/               contains view files for e-mails 邮件视图文件
   models/             contains model classes
   runtime/            contains files generated during runtime
   tests/              contains various tests for the basic application
