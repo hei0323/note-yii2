@@ -7,10 +7,10 @@
 #### 2.basic目录介绍：
 
 ```markdown
-  assets/             contains assets definition
-  commands/           contains console commands (controllers)
-  config/             contains application configurations
-  controllers/        contains Web controller classes
+  assets/             contains assets definition 资源包，定义静态资源
+  commands/           contains console commands (controllers)控制台应用程序(控制器)
+  config/             contains application configurations应用及其他配置
+  controllers/        contains Web controller classes web应用控制器
   mail/               contains view files for e-mails
   models/             contains model classes
   runtime/            contains files generated during runtime
