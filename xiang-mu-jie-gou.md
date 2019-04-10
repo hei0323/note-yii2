@@ -12,12 +12,14 @@
   config/             contains application configurations应用及其他配置
   controllers/        contains Web controller classes web应用控制器
   mail/               contains view files for e-mails 邮件视图文件
-  models/             contains model classes
-  runtime/            contains files generated during runtime
-  tests/              contains various tests for the basic application
-  vendor/             contains dependent 3rd-party packages
-  views/              contains view files for the Web application
-  web/                contains the entry script and Web resources
+  models/             contains model classes 模型层文件
+  runtime/            contains files generated during runtime 运行时产生的日志缓存等
+  tests/              contains various tests for the basic application 测试单元
+  vagrant/            
+  vendor/             contains dependent 3rd-party packages yii核心文件及第三方依赖包
+  views/              contains view files for the Web application 视图文件
+  web/                contains the entry script and Web resources 网站程序
+  widgets/            
 ```
 
 #### 3.advanced版本文件结构图:
