@@ -8,20 +8,30 @@ Server started on http://localhost:8080/
 Document root is "D:\website\yii2-app-basic/web"
 Quit the server with CTRL-C or COMMAND-C.
 ```
-####图示如下：
+######图示如下：
 ![](/assets/basic.png)  
 
 - ###2.advanced版本启动
-```
-#1.启动前端应用程序 进入项目根目录执行命令（端口自定义） ./yii serve --port=8081 --docroot="@frotened/web" 
-ZDYTYF@DESKTOP-NTUVM29 MINGW64 /d/website/yii2-app-advanced
-$ ./yii serve --port=8081 --docroot="@frontend/web"
-Server started on http://localhost:8081/
-Document root is "D:\website\yii2-app-advanced/frontend/web"
-Quit the server with CTRL-C or COMMAND-C.
-```  
-###图示如下：
+    - #####2.1启动前端应用程序 进入项目根目录执行命令（端口自定义） ./yii serve --port=8081 --docroot="@frotened/web" 
 
-```
-#1.启动前端应用程序 进入项目根目录执行命令（端口自定义） ./yii serve --port=8082 --docroot="@backend/web"
-```
+    ```
+    #1.启动前端应用程序 进入项目根目录执行命令（端口自定义） ./yii serve --port=8081 --docroot="@frotened/web" 
+    ZDYTYF@DESKTOP-NTUVM29 MINGW64 /d/website/yii2-app-advanced
+    $ ./yii serve --port=8081 --docroot="@frontend/web"
+    Server started on http://localhost:8081/
+    Document root is "D:\website\yii2-app-advanced/frontend/web"
+    Quit the server with CTRL-C or COMMAND-C.
+    ```  
+######图示如下：
+![](/assets/frontened.png)
+    - #####2.2启动前端应用程序 进入项目根目录执行命令（端口自定义） ./yii serve --port=8082 --docroot="@backend/web"
+    
+    ```
+    ZDYTYF@DESKTOP-NTUVM29 MINGW64 /d/website/yii2-app-advanced
+    $ ./yii serve --port=8082 --docroot="@backend/web"
+    Server started on http://localhost:8082/
+    Document root is "D:\website\yii2-app-advanced/backend/web"
+    Quit the server with CTRL-C or COMMAND-C.
+    ```  
+    ###图示如下：
+    ![](/assets/backend.png)
