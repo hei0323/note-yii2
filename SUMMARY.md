@@ -9,4 +9,5 @@
 * [Yii2的RBAC权限管理](yii2de-rbac-quan-xian-guan-li.md)
 * [启动内置web serve 运行项目](nei-zhi-web-serve-qi-dong.md)
 * [启动vagrant运行项目](vagrantqi-dong-yun-xing-xiang-mu.md)
+* [GII脚手架工具](giijiao-shou-jia-gong-ju.md)
 
