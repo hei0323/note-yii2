@@ -4,9 +4,7 @@ GII是代码开发的辅助工具，基于web生成模型，控制器，表单�
 
 - ####使用：
     - 1.配置文件中开启GII
-    
-    - 2.打开gii页面，填写表单，生成代码
-文件/yii2-app-advanced/backend/config/main-local.php
+    文件/yii2-app-advanced/backend/config/main-local.php
         ```
         <?php
         $config = [
@@ -31,3 +29,6 @@ GII是代码开发的辅助工具，基于web生成模型，控制器，表单�
         }
         return $config;
         ```
+    
+    - 2.打开gii页面，填写表单，生成代码
+        - Gii页面连接：http://localhost:8081/index.php?r=gii
