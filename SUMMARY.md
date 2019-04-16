@@ -16,5 +16,6 @@
 * [GII的使用](giide-shi-yong.md)
   * [GII脚手架工具](giijiao-shou-jia-gong-ju.md)
   * [自定义gii模板](zi-ding-yi-gii-mo-ban.md)
-  * 示例
+  * [示例](shi-li.md)
+* [数据库操作](shu-ju-ku-cao-zuo.md)
 
