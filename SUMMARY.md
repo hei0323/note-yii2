@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [Yii2基本认识](yii2ji-ben-ren-shi.md)
+* [YII2基本认识](yii2ji-ben-ren-shi.md)
 * [项目文件结构](xiang-mu-jie-gou.md)
 * [项目安装及初始化](xiang-mu-chu-shi-hua-pei-zhi.md)
   * [Yii2 的安装](yii2-de-an-zhuang.md)
@@ -18,4 +18,5 @@
   * [自定义gii模板](zi-ding-yi-gii-mo-ban.md)
   * [示例](shi-li.md)
 * [数据库操作](shu-ju-ku-cao-zuo.md)
+* [YII2的文件配置](yiide-wen-jian-pei-zhi.md)
 
