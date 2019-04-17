@@ -19,4 +19,5 @@
   * [示例](shi-li.md)
 * [数据库操作](shu-ju-ku-cao-zuo.md)
 * [YII2的文件配置](yiide-wen-jian-pei-zhi.md)
+* [YII2 类自动加载机制](yiilei-zi-dong-jia-zai-ji-zhi.md)
 
